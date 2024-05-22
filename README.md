@@ -3,14 +3,19 @@
 
 Title of the project activity 60 MW Solar Power Plants in Karnataka
 M/s Asian Fab Tec Limited.
+
 Scale of the project activity Large Scale Project
-Completion date of the PCN 07/05/2024
+
 Project participants M/s Asian Fab Tec Limited.
+
 Host Party India
+
 Applied methodologies and standardized baselines ACM0002 : Grid-connected electricity
 generation from renewable sources
+
 Sectoral scopes 01 Energy industries (Renewable/Non -
 Renewable Sources)
+
 Estimated amount of total GHG emission
 reductions
 To be estimated during verification
