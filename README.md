@@ -41,3 +41,44 @@ Asian Fab Tec Limited/20 /Alakapura & Bommasandra Village, Gowribidanuru Taluk, 
 ___________________________
 The power produced by the 10MW, 15MW and 15MW,20MW is evacuated at Tubagere, Bevinahalli,
 vaderhally Substation 66/11 KV Located at Karnataka.
+_______________
+CoU MP-01 Issue Date: 03/09/2024
+
+qty: 451876
+___________________
+Serial Number: 0001-000001-057022-UCR-CoU-IN-437-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 57022
+______________
+Serial Number: 0001-057023-140037-UCR-CoU-IN-437-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 83015
+____________
+Serial Number: 0001-140038-223124-UCR-CoU-IN-437-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 83087
+_____________
+Serial Number: 0001-223125-299597-UCR-CoU-IN-437-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 76473
+________________
+Serial Number: 0001-299598-371648-UCR-CoU-IN-437-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 72051
+_____________
+Serial Number: 0001-371649-451873-UCR-CoU-IN-437-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 80225
+____________
